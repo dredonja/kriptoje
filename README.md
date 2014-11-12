@@ -3,4 +3,4 @@ tekstualnih poruka. Princip na kome se vrsi kripcija zasniva se na promeni svako
 ključa su unapred definisana (fiksna), dok je treci dizajniran tako da se prilikom svakog pokretanja aplikacije pravi unikatan ‘recnik’ po kome de poruka biti kriptovana. 
 
 Zbog toga sto aplikacija ima ‘responsive’ dizajn, njeno koriscenje pored desktop
-racunara omogudeno je i na tablet racunarima kao i na mobilnim telefonima, bez gubitaka preglednosti i samih funkcija.
+racunara omoguceno je i na tablet racunarima kao i na mobilnim telefonima, bez gubitaka preglednosti i samih funkcija.
